@@ -1,0 +1,4 @@
+﻿  06 常用查找算法_count_if.cpp
+D:\visual studio\04、C++提高编程\05 STL-常用算法\常用查找算法\常用查找算法\06 常用查找算法_count_if.cpp(27,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\visual studio\04、C++提高编程\05 STL-常用算法\常用查找算法\常用查找算法\06 常用查找算法_count_if.cpp(70,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  常用查找算法.vcxproj -> D:\visual studio\04、C++提高编程\05 STL-常用算法\常用查找算法\x64\Debug\常用查找算法.exe

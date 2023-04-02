@@ -1,0 +1,5 @@
+﻿  STL案例_员工分组.cpp
+D:\visual studio\04、C++提高编程\03 STL-常用容器\员工分组\员工分组\STL案例_员工分组.cpp(50,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\visual studio\04、C++提高编程\03 STL-常用容器\员工分组\员工分组\STL案例_员工分组.cpp(61,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\visual studio\04、C++提高编程\03 STL-常用容器\员工分组\员工分组\STL案例_员工分组.cpp(72,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  员工分组.vcxproj -> D:\visual studio\04、C++提高编程\03 STL-常用容器\员工分组\x64\Debug\员工分组.exe
